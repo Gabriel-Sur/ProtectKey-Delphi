@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/13 11:28:32.000.682,=C:\ProjetoKeyProtect\Bin\ServerModule.pas</Transaction>
+    <Transaction>2022/04/13 11:28:32.000.999,=C:\ProjetoKeyProtect\Bin\Main.pas</Transaction>
+    <Transaction>2022/04/13 11:28:32.000.813,=C:\ProjetoKeyProtect\Bin\MainModule.pas</Transaction>
+    <Transaction>2022/04/13 11:38:21.000.438,=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+    <Transaction>2022/04/13 11:39:03.000.433,C:\ProjetoKeyProtect\Bin\ufrmCadCategoria.pas=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+    <Transaction>2022/04/13 11:39:03.000.433,C:\ProjetoKeyProtect\Bin\ufrmCadCategoria.dfm=C:\ProjetoKeyProtect\Bin\Unit1.dfm</Transaction>
+    <Transaction>2022/04/13 11:39:13.000.990,=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+    <Transaction>2022/04/13 11:39:39.000.005,C:\ProjetoKeyProtect\Bin\ufrmListCategorias.pas=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+    <Transaction>2022/04/13 11:39:39.000.005,C:\ProjetoKeyProtect\Bin\ufrmListCategorias.dfm=C:\ProjetoKeyProtect\Bin\Unit1.dfm</Transaction>
+    <Transaction>2022/04/13 14:14:27.000.155,=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+    <Transaction>2022/04/13 14:15:21.000.723,C:\ProjetoKeyProtect\Bin\ufrmListCredencial.dfm=C:\ProjetoKeyProtect\Bin\Unit1.dfm</Transaction>
+    <Transaction>2022/04/13 14:15:21.000.723,C:\ProjetoKeyProtect\Bin\ufrmListCredencial.pas=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+    <Transaction>2022/04/13 14:24:18.000.230,=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+    <Transaction>2022/04/13 14:24:43.000.559,C:\ProjetoKeyProtect\Bin\ufrmCadCredencial.dfm=C:\ProjetoKeyProtect\Bin\Unit1.dfm</Transaction>
+    <Transaction>2022/04/13 14:24:43.000.559,C:\ProjetoKeyProtect\Bin\ufrmCadCredencial.pas=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 17:37:06.000.209,=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 17:37:38.000.478,C:\ProjetoKeyProtect\Bin\Unit1.dfm=C:\ProjetoKeyProtect\Bin\ufrmCadCategoriaTeste.dfm</Transaction>
+    <Transaction>2022/04/14 17:37:38.000.478,C:\ProjetoKeyProtect\Bin\Unit1.pas=C:\ProjetoKeyProtect\Bin\ufrmCadCategoriaTeste.pas</Transaction>
+    <Transaction>2022/04/16 08:54:38.000.841,C:\ProjetoKeyProtect\Bin\ufrmCadCategoriaTeste.pas=</Transaction>
+    <Transaction>2022/04/16 09:14:00.000.378,=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+    <Transaction>2022/04/16 09:14:30.000.211,C:\ProjetoKeyProtect\Bin\ufrmCadCategorias.dfm=C:\ProjetoKeyProtect\Bin\Unit1.dfm</Transaction>
+    <Transaction>2022/04/16 09:14:30.000.211,C:\ProjetoKeyProtect\Bin\ufrmCadCategorias.pas=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+    <Transaction>2022/04/19 10:34:49.000.695,=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+    <Transaction>2022/04/19 10:37:05.000.116,=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+    <Transaction>2022/04/19 10:37:34.000.051,C:\ProjetoKeyProtect\Bin\Unit1.pas=C:\ProjetoKeyProtect\Bin\ufrmLogin.pas</Transaction>
+    <Transaction>2022/04/19 10:37:34.000.051,C:\ProjetoKeyProtect\Bin\Unit1.dfm=C:\ProjetoKeyProtect\Bin\ufrmLogin.dfm</Transaction>
+    <Transaction>2022/04/19 10:44:31.000.437,=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+    <Transaction>2022/04/19 10:45:14.000.344,C:\ProjetoKeyProtect\Bin\Unit1.pas=C:\ProjetoKeyProtect\Bin\ufrmCadastro.pas</Transaction>
+    <Transaction>2022/04/19 10:45:14.000.344,C:\ProjetoKeyProtect\Bin\Unit1.dfm=C:\ProjetoKeyProtect\Bin\ufrmCadastro.dfm</Transaction>
+    <Transaction>2022/04/19 14:06:01.000.841,C:\ProjetoKeyProtect\Bin\ufrmCadCategoria.pas=</Transaction>
+    <Transaction>2022/04/20 11:07:52.000.966,=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+    <Transaction>2022/04/20 11:08:34.000.445,C:\ProjetoKeyProtect\Bin\uCrypto.pas=C:\ProjetoKeyProtect\Bin\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Main.pas"/>
+    <File Path="Main.dfm"/>
+    <File Path="MainModule.pas"/>
+    <File Path="MainModule.dfm"/>
+    <File Path="ServerModule.pas"/>
+    <File Path="ServerModule.dfm"/>
+    <File Path="ufrmCadCategorias.pas"/>
+    <File Path="ufrmCadCategorias.dfm"/>
+    <File Path="ufrmCadCredencial.pas"/>
+    <File Path="ufrmCadCredencial.dfm"/>
+    <File Path="ufrmListCategorias.pas"/>
+    <File Path="ufrmListCategorias.dfm"/>
+    <File Path="ufrmListCredencial.pas"/>
+    <File Path="ufrmListCredencial.dfm"/>
+    <File Path="ufrmLogin.pas"/>
+    <File Path="ufrmLogin.dfm"/>
+    <File Path="ufrmCadastro.pas"/>
+    <File Path="ufrmCadastro.dfm"/>
+    <File Path="uCrypto.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
